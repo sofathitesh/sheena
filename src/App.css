@@ -1,0 +1,52 @@
+.col-md-12 {
+background: #353434;
+color: white ;
+}
+
+.col-md-4 .heading-name {
+  position: absolute;
+  top: 195px;
+  background: black;
+  width: 100%;
+  padding: 2px;
+  opacity: 0.8;
+  border: 1px;
+  font-size: 12px;
+  border-radius: 4px;
+}
+.heading-name h2{
+  font-size: 16px;
+}
+.col-md-4 {
+  padding: 13px;
+  display: inline-block;
+}
+.headings{
+  width: 40%;
+  display: inline-block;
+}
+.extraDiv{
+  clear: both;
+}
+.heading-data {
+  text-align: right;
+  color: orange;
+  display: inline-block;
+  width: 60%;
+}
+.col-sm-9 li{
+  border: 2px solid grey;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;  
+  background:#353434;
+  font-size: 10px;
+}
+.col-sm-9 .card-body{
+  padding: 0px;
+}
+.blank-block{
+  display: block;
+    width: 100px;
+    height: 20px;
+}

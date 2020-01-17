@@ -1,0 +1,1 @@
+export const ALL_DATA_FROM_API = "ALL_DATA_FROM_API"
